@@ -1,0 +1,16 @@
+.nav {
+    position: absolute;
+    top: 20px; 
+    right: 50px;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px; 
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.4rem;
+    font-weight: 500;
+}
